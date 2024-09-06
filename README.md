@@ -1,2 +1,1 @@
-# Henry-Prepcourse-Test
-Modulo 2 testing repository
+Testing proyecto creacion de repositorio y clonarlo a la pc local
